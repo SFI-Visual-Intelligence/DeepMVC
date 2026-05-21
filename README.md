@@ -1,3 +1,5 @@
+Paper: On the Effects of Self-supervision and Contrastive Alignment in Deep Multi-view Clustering ([Link](https://api.nva.unit.no/publication/0198cc66ac0e-821559d1-de4d-4db3-98e6-465b994d35a3))
+
 # DeepMVC: A Unified Framework for Deep Multi-view Clustering
 
 This repository contains the code for the paper _"On the Effects of Self-supervision and Contrastive Alignment in Deep Multi-view Clustering"_, CVPR 2023.
